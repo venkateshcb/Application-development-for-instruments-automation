@@ -5,3 +5,5 @@
 4. Contributed to the development of a comprehensive automation system for these instruments.
 
 ![waveform](https://github.com/venkateshcb/Development-of-GUI-for-Evaluation-kit-automation/blob/main/Results/wavform.jpeg)
+![waveform](https://github.com/venkateshcb/Development-of-GUI-for-Evaluation-kit-automation/blob/main/Results/peak.jpeg)
+![waveform](https://github.com/venkateshcb/Development-of-GUI-for-Evaluation-kit-automation/blob/main/Results/setup2.jpeg)
